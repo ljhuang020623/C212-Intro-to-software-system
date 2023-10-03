@@ -1,4 +1,4 @@
-public class Friday {
+public class Lab01 {
 
     public static double celsiusToFahrenheit(double celsius){
         return (celsius * 9/5) + 32;

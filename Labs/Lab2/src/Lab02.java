@@ -1,6 +1,4 @@
-import javax.swing.plaf.metal.MetalIconFactory;
-
-public class Lab2 {
+public class Lab02 {
 
     public static String Problem1(int temp, char unit){
         String C = "Celsius";
